@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义条形图样式-->
+    <declare-styleable name="ChartStyle">
+        <attr name="graphTitle" format="string"></attr>
+        <attr name="xAxisName" format="string"></attr>
+        <attr name="yAxisName" format="string"></attr>
+        <attr name="axisTextSize" format="dimension|integer"></attr>
+        <attr name="axisTextColor" format="color|integer"></attr>
+    </declare-styleable>
+
+</resources>
